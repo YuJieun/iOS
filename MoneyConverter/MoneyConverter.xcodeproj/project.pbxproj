@@ -15,6 +15,7 @@
 		910BBEEB24309A040074E2AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 910BBEE924309A040074E2AE /* LaunchScreen.storyboard */; };
 		910BBEF624309A040074E2AE /* MoneyConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910BBEF524309A040074E2AE /* MoneyConverterTests.swift */; };
 		910BBF0124309A040074E2AE /* MoneyConverterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910BBF0024309A040074E2AE /* MoneyConverterUITests.swift */; };
+		910BBF0F2430A1B30074E2AE /* Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910BBF0E2430A1B30074E2AE /* Money.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		910BBEFC24309A040074E2AE /* MoneyConverterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MoneyConverterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		910BBF0024309A040074E2AE /* MoneyConverterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyConverterUITests.swift; sourceTree = "<group>"; };
 		910BBF0224309A040074E2AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		910BBF0E2430A1B30074E2AE /* Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Money.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				910BBEDE243099FF0074E2AE /* AppDelegate.swift */,
 				910BBEE0243099FF0074E2AE /* SceneDelegate.swift */,
 				910BBEE2243099FF0074E2AE /* ViewController.swift */,
+				910BBF0E2430A1B30074E2AE /* Money.swift */,
 				910BBEE4243099FF0074E2AE /* Main.storyboard */,
 				910BBEE724309A040074E2AE /* Assets.xcassets */,
 				910BBEE924309A040074E2AE /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				910BBEE3243099FF0074E2AE /* ViewController.swift in Sources */,
 				910BBEDF243099FF0074E2AE /* AppDelegate.swift in Sources */,
+				910BBF0F2430A1B30074E2AE /* Money.swift in Sources */,
 				910BBEE1243099FF0074E2AE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
